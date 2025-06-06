@@ -31,4 +31,4 @@ cd blog_1
 
 desarrollado por
 
-Henry el profe
+samuel mendez
